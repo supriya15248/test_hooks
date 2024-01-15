@@ -1,4 +1,4 @@
-def add  (a,       b)               :
-    ans = a      +           b
+def add   (a,       b)               :
+    ans =  a      +           b
 
     return             ans

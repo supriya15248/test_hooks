@@ -1,0 +1,12 @@
+{
+  "steps": [
+    {
+      "name": "Black format",
+      "command": "python-changed-files black"
+    },
+    {
+      "name": "Flake8 statistics",
+      "command": "python-changed-files flake8 --statistics"
+    }
+  ]
+}
